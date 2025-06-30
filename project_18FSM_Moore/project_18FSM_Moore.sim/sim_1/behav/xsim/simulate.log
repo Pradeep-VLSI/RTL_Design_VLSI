@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Time	clk	reset	state
+0	0	1	00
+5000	1	1	00
+10000	0	0	00
+15000	1	0	01
+20000	0	0	01
+25000	1	0	10
+30000	0	0	10
+35000	1	0	00
+40000	0	0	00
+45000	1	0	01
+50000	0	0	01
+55000	1	0	10
+60000	0	0	10
+65000	1	0	00
+$finish called at time : 70 ns : File "C:/Design RTL/project_18FSM_Moore/project_18FSM_Moore.srcs/sim_1/new/moore_fsm_tb.v" Line 41

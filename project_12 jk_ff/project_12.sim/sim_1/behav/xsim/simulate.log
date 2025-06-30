@@ -1,0 +1,20 @@
+Time resolution is 1 ps
+Time	CLK J K | Q QB
+0	 0  0 0 | x x
+5000	 1  0 0 | x x
+10000	 0  0 0 | x x
+12000	 0  0 1 | x x
+15000	 1  0 1 | 0 1
+20000	 0  0 1 | 0 1
+22000	 0  1 0 | 0 1
+25000	 1  1 0 | 1 0
+30000	 0  1 0 | 1 0
+32000	 0  1 1 | 1 0
+35000	 1  1 1 | 0 1
+40000	 0  1 1 | 0 1
+45000	 1  1 1 | 1 0
+50000	 0  1 1 | 1 0
+52000	 0  0 0 | 1 0
+55000	 1  0 0 | 1 0
+60000	 0  0 0 | 1 0
+$finish called at time : 62 ns : File "C:/Design RTL/project_12/project_12.srcs/sim_1/new/jk_tb.v" Line 54

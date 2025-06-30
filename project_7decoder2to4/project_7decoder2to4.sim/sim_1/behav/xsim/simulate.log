@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time	In | Out
+0	 00 | 0001
+10000	 01 | 0010
+20000	 10 | 0100
+30000	 11 | 1000
+$finish called at time : 40 ns : File "C:/Design RTL/project_7decoder2to4/project_7decoder2to4.srcs/sim_1/new/deco_24_tb.v" Line 37

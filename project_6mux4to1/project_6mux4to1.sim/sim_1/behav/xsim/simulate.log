@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time	SEL IN | Y
+0	 1101 00 |1
+10000	 1101 01 |0
+20000	 1101 10 |1
+30000	 1101 11 |1
+$finish called at time : 40 ns : File "C:/Design RTL/project_6mux4to1/project_6mux4to1.srcs/sim_1/new/mux_4_tb.v" Line 38

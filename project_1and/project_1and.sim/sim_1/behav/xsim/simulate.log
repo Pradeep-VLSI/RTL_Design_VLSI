@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+A B | Y
+0 0 | 0
+0 1 | 0
+1 0 | 0
+1 1 | 1
+$finish called at time : 40 ns : File "C:/Design RTL/project_1and/project_1and.srcs/sim_1/new/and_gate_tb.v" Line 43

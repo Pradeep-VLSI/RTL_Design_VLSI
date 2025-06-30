@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+time	s a b | y
+0	 0 0 0 | 0
+10000	 0 1 0 | 1
+20000	 1 0 1 | 1
+30000	 1 1 1 | 1
+$finish called at time : 40 ns : File "C:/Design RTL/project_5mux2to1/project_5mux2to1.srcs/sim_1/new/mux_2_tb.v" Line 40

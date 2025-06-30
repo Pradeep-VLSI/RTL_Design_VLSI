@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+Time	clk d | q qbar
+0	 0   0 | x   x
+5000	 1   0 | 0   1
+10000	 0   0 | 0   1
+12000	 0   1 | 0   1
+15000	 1   1 | 1   0
+20000	 0   1 | 1   0
+22000	 0   0 | 1   0
+25000	 1   0 | 0   1
+30000	 0   0 | 0   1
+32000	 0   1 | 0   1
+35000	 1   1 | 1   0
+40000	 0   1 | 1   0
+$finish called at time : 42 ns : File "C:/Design RTL/project_10 d_ff/project_10 d_ff.srcs/sim_1/new/d_ff_tb.v" Line 54

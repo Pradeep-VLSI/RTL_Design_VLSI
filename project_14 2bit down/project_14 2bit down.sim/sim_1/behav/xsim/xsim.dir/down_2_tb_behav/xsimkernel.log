@@ -1,0 +1,7 @@
+Running: xsim.dir/down_2_tb_behav/xsimk.exe -simmode gui -wdb down_2_tb_behav.wdb -simrunnum 0 -socket 62101
+Design successfully loaded
+Design Loading Memory Usage: 29580 KB (Peak: 29580 KB)
+Design Loading CPU Usage: 999 ms
+Simulation completed
+Simulation Memory Usage: 30420 KB (Peak: 30420 KB)
+Simulation CPU Usage: 1077 ms
