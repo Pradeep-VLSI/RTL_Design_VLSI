@@ -7,9 +7,9 @@ This repository contains Verilog HDL code for basic RTL design components as par
 - ✅ 2:1 and 4:1 Multiplexer (MUX)
 - ✅ 2:4 and 3:8 Decoder
 - ✅ Half Adder, Full Adder
-- ✅ D Flip-Flop
-- ✅ 4-bit Counter (Up/Down)
-- ✅ FSM (Mealy Machine - Traffic Light Controller)
+- ✅ Flip-Flops-SR,JK,D,T
+- ✅ 4-bit and 2 - bit Counters (Up/Down)
+- ✅ FSM (Moore Machine - Traffic Light Controller)
 
 ## 🛠 Tools Used
 
